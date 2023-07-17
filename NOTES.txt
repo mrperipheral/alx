@@ -1,0 +1,99 @@
+I am writing this letter to apply as a Data Engineer Intern at Indicina. I am confident that my experience, knowledge and qualities makes me a better candidate for the role. 
+
+I graduated at LASUSTECH formerly Lagos State Polytechnic. At the time, i was already working as a technical support personnel and Data Processing Teacher in Wonderful Lord College.
+Over the years, I was learning yet i was teaching and i realized the more i teach i get to know better. This great experience has taught me how to become better and quickly pick up any IT Skill.
+
+I took a Data Analytics Course organized by LinkedIn and Microsoft also a Data Engineering Course on DATACAMP where i learned how to interact with relational databases to query, input, and modify data and get hands-on experience in importing and cleaning data in Python, optimizing your code for efficiency, and writing tests to validate your code.
+
+Also I have the foundational skills will allow you to work with data in various ways such as how to interpret data visualizations, create functions, and utilize version control. 
+
+I would love to be a part of Indicina Family, So I am readily available to take up this internship opportunity as it would help me contribute to the organization and also improve my skills.
+
+You can reach me on 08173708011 or email samuelhardy58@gmail.com
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+ALX PROGRAM
+GIT TOKEN
+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
+
+cloning repo.
+git clone https://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@github.com/mrperipheral/alx.git
+
+INSTALLATION
+MIGRATIONS (CHECKING MIGRATIONS AND SEEDER)
+UNDERSTANDING HOW PAGE RENDERS.
+Pages now responds to clicks and links.
+
+
+
+
+
+notepad
+run yarn
+install node js
+check yarn --version. 
+if it doesnt work with the error (File C:\Users\SAMADE\AppData\Roaming\npm\yarn.ps1 cannot be loaded. The file 
+C:\Users\SAMADE\AppData\Roaming\npm\yarn.ps1 is not digitally signed. You cannot run this script on 
+the current system)
+
+open powershell as administrator,
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+select a.
+
+use html and css.- naive
+or
+
+
+READ ABOUT MIGRATION.
+php artisan migrate - updates the tables into the db. 
+SEEDING - TO HAVE A DEFAULT DATA IN THE DB.
+php artisan seed runs the run method in the seeder file.
+factory class* a data generator.
+having a user model should mean it interacts with a user table
+service provider in laravel
+kow the entry point of the framework
+node to run command to build assets.
+
+build asset using yarn.
+
+
+RECAP
+do compoer install
+yarn install
+point to your db
+migrate
+check the pages
+
+
+LINKING THE PAGES ON THE DASHBOARD
+create a controller - php artisan make:controller ShipmentSetup/PackagingItemController
+open controller file and do this - create an index page on the pages.system_configuration_shiptment_setup file with in the folder for the section.
+Go to _menu.blade to add links to the page. add route address to the menu-sub menu-sub accordion line. and also to the menu-link line
+In the route foler, go to web.php and add the route link to the lists of route pages there.Note, update the controller name if you copied an existing one.
+OR
+MAKE CONTROLLER
+MAKE INDEX FILE IN pages.system_configuration_shiptment_setup
+GO TO controller file and update the view link to the index file you just created.
+GO TO _MENU.BLADE in the resources, views, layout, partials, sidebar-layout, sidebar.
+UPDATE MENU-LINK LINE for the newly created page and add page name in the menu and submenu accordion lines.
+READ MORE ON .GITBOOK FILE CREATION- TO ADD AN EMPTY FOLDER TO GIT.
+
+HOW I CREATED NEW FOLDER FOR CONTROLLER AND A CONTROLLER FILE
+php artisan make:controller newfolder/newcontrollername
+
+
+
+USE GIT PUSH DEVELOP WHEN YOU WANT TO PUSH TO THE CODE.
+I used 
+git branch to know my branch
+git checkout develop 
+git pull 
+when u get message telling you to commit changes or stash. commit will keep changes before u pull while stash will delete changes made on your own computer before u pull.
+i used git stash 
+- it switches to develop if such branch exists. if not it creates it. however if it was created on another developer's end./incomplete
+to check ur branch, type git branch
+
+USE GIT PUSH -U ORIGIN DEVELOP(BRANCHNAME)
+ASK
+LINK TO HOME PAGE
